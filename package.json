@@ -1,0 +1,15 @@
+{
+  "name": "simular-eleicoes",
+  "version": "1.0.0",
+  "description": "simular eleições",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JonasVix",
+  "license": "ISC",
+  "dependencies": {
+    "convert-text-eleicoes-2022": "^1.0.2",
+    "prompt": "^1.3.0"
+  }
+}
